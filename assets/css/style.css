@@ -1,3 +1,11 @@
-#btnbtn-primary {
+#btn {
   float: right;
+  padding: 0.375em;
+  position: relative;
+  top: 25px;
+  right: 25px;
+}
+
+h1 {
+  text-align: center;
 }
