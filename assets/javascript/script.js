@@ -1,6 +1,6 @@
 $(document).ready(function () {
   $("button").click(function () {
-    $(".container").load("https://aimtell.com/quiz/sites.json/", "jasonp");
+    $(".container").load("https://aimtell.com/quiz/sites.json/", "jsonp");
   });
 });
 
